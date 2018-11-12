@@ -1,0 +1,21 @@
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\bin\Release\mail.exe.config
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\bin\Release\mail.exe
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\bin\Release\mail.pdb
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\obj\Release\mail.Properties.Resources.resources
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\obj\Release\mail.csproj.GenerateResource.Cache
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\obj\Release\mail.exe
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\obj\Release\mail.pdb
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\obj\Release\mail.csprojResolveAssemblyReference.cache
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\obj\Release\mail.PrintScreen.resources
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\obj\Release\mail.MailForm.resources
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Release\icons\printscreen.ico
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Release\icons\mail.ico
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Release\icons\resize.ico
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Release\icons\resize.bmp
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Release\icons\move.png
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Release\icons\alu.png
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Release\icons\ard.png
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\obj\Release\mail.User.resources
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\obj\Release\mail.HostForm.resources
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Release\res\Sans titre.png
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Release\USBLib.DLL

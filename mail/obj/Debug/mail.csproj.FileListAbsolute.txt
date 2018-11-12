@@ -1,0 +1,59 @@
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\bin\Debug\mail.exe.config
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\bin\Debug\mail.exe
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\bin\Debug\mail.pdb
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\obj\Debug\mail.csprojResolveAssemblyReference.cache
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\obj\Debug\mail.Properties.Resources.resources
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\obj\Debug\mail.csproj.GenerateResource.Cache
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\obj\Debug\mail.exe
+c:\users\aa\documents\visual studio 2013\Projects\mail\mail\obj\Debug\mail.pdb
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Debug\icons\alu.png
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Debug\icons\ard.png
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Debug\icons\move.png
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Debug\icons\printscreen.ico
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Debug\icons\mail.ico
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Debug\icons\resize.bmp
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Debug\icons\resize.ico
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\obj\Debug\mail.HostForm.resources
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\obj\Debug\mail.MailForm.resources
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\obj\Debug\mail.PrintScreen.resources
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\obj\Debug\mail.User.resources
+C:\Users\aa\Documents\Visual Studio 2013\Projects\mail\mail\bin\Debug\res\Sans titre.png
+H:\Projects\mail\mail\obj\Debug\mail.csprojAssemblyReference.cache
+H:\Projects\mail\mail\obj\Debug\mail.HostForm.resources
+H:\Projects\mail\mail\obj\Debug\mail.MailForm.resources
+H:\Projects\mail\mail\obj\Debug\mail.PrintScreen.resources
+H:\Projects\mail\mail\obj\Debug\mail.Properties.Resources.resources
+H:\Projects\mail\mail\obj\Debug\mail.User.resources
+H:\Projects\mail\mail\obj\Debug\mail.csproj.GenerateResource.cache
+H:\Projects\mail\mail\obj\Debug\mail.csproj.CoreCompileInputs.cache
+H:\Projects\mail\mail\obj\Debug\mail.exe
+H:\Projects\mail\mail\obj\Debug\mail.pdb
+H:\Projects\mail\mail\bin\Debug\icons\alu.png
+H:\Projects\mail\mail\bin\Debug\icons\ard.png
+H:\Projects\mail\mail\bin\Debug\icons\move.png
+H:\Projects\mail\mail\bin\Debug\icons\printscreen.ico
+H:\Projects\mail\mail\bin\Debug\icons\mail.ico
+H:\Projects\mail\mail\bin\Debug\icons\resize.bmp
+H:\Projects\mail\mail\bin\Debug\icons\resize.ico
+H:\Projects\mail\mail\bin\Debug\res\Sans titre.png
+H:\Projects\mail\mail\bin\Debug\mail.exe.config
+H:\Projects\mail\mail\bin\Debug\mail.exe
+H:\Projects\mail\mail\bin\Debug\mail.pdb
+H:\Projects\mail\mail\bin\Debug\Google.Apis.Auth.dll
+H:\Projects\mail\mail\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+H:\Projects\mail\mail\bin\Debug\Google.Apis.Core.dll
+H:\Projects\mail\mail\bin\Debug\Google.Apis.dll
+H:\Projects\mail\mail\bin\Debug\Google.Apis.Gmail.v1.dll
+H:\Projects\mail\mail\bin\Debug\Google.Apis.PlatformServices.dll
+H:\Projects\mail\mail\bin\Debug\Newtonsoft.Json.dll
+H:\Projects\mail\mail\bin\Debug\Google.Apis.pdb
+H:\Projects\mail\mail\bin\Debug\Google.Apis.xml
+H:\Projects\mail\mail\bin\Debug\Google.Apis.Auth.pdb
+H:\Projects\mail\mail\bin\Debug\Google.Apis.Auth.xml
+H:\Projects\mail\mail\bin\Debug\Google.Apis.Core.pdb
+H:\Projects\mail\mail\bin\Debug\Google.Apis.Core.xml
+H:\Projects\mail\mail\bin\Debug\Google.Apis.Gmail.v1.pdb
+H:\Projects\mail\mail\bin\Debug\Google.Apis.Gmail.v1.xml
+H:\Projects\mail\mail\bin\Debug\Newtonsoft.Json.xml
+H:\Projects\mail\mail\obj\Debug\mail.csproj.CopyComplete
+H:\Projects\mail\mail\bin\Debug\credentials.json

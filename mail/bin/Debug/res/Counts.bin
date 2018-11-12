@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<MailCounts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>
+    <MailCount>
+      <user>Ammi.SAid.Kaidi@gmail.com</user>
+      <pwd>023942332as</pwd>
+      <code>0320369e-3f04-40d7-8ee7-c0b0730432ea</code>
+      <name>Achour Brahim</name>
+    </MailCount>
+    <MailCount>
+      <user>Ammi.SAid.Kaidi@gmail.com</user>
+      <pwd>023942332as</pwd>
+      <code>0320369e-3f04-40d7-8ee7-c0b0730432ea</code>
+      <name>Achour Brahim</name>
+    </MailCount>
+    <MailCount>
+      <user>Ammi.SAid.Kaidi@gmail.com</user>
+      <pwd>023942332as</pwd>
+      <code>a95e09d2-fb27-488e-a829-3456cc2b15ca</code>
+      <name>Achour Brahim</name>
+    </MailCount>
+    <MailCount>
+      <user>Ammi.SAid.Kaidi@gmail.com</user>
+      <pwd>023942332as</pwd>
+      <code>02e984e9-62ab-4816-b734-e0d5398cea29</code>
+      <name>Achour Brahim</name>
+    </MailCount>
+  </a>
+</MailCounts>
